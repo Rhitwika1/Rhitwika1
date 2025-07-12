@@ -1,5 +1,5 @@
-#  Hi 👋, I'm Rhitwika 💫
-**Data Scientist in the Making | Designer by Passion |  Driven to Build**
+#  Hi 👋, I'm Rhitwika Poddar 💫
+**Aspiring Data Scientist | Designer by Passion |  Driven to Build**
 
 Connect with Me 👉 ✉️[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhitwika-poddar-330731243) For Collaboration/Project or Anything Else. 😊😊
 # 💫 About Me:
@@ -19,7 +19,8 @@ Connect with Me 👉 ✉️[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rhitwika1&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Rhitwika1&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&hide_title=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=Rhitwika1&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Rhitwika1&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhitwika1&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
