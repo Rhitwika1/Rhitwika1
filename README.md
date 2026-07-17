@@ -18,9 +18,9 @@ Connect with Me 👉 ✉️[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rhitwika1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhitwika1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
